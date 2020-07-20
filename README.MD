@@ -1,4 +1,4 @@
-# Rx-related cook-book
+# Rx-related cook-book and playground
 
 Some Rx-related recipes:
 
